@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click_here](https://your-solution-url.com)
-- Live Site URL: [click_here](https://your-live-site-url.com)
+- Solution URL: [Git_hub](https://github.com/NITHISHKUMAR0283/Social-link-profile)
+- Live Site URL: [click_here](https://nithishkumar0283.github.io/Social-link-profile/)
 
 
 ### Screenshot
@@ -58,7 +58,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [nithish](https://www.your-site.com)
+- Website - [nithish](https://nithishkumar0283.github.io/Social-link-profile/)
 - Frontend Mentor - [@NITHISHKUMAR0283](https://www.frontendmentor.io/profile/NITHISHKUMAR0283)
 
 ## Acknowledgments
