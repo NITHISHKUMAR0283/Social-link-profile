@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [This challenge on Frontend Mentor]([https://www.frontendmentoer.io/challenges/social-links-profile-UG32l9m6dQ](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/67682316229816307766e19c/challenge/start)). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [This challenge on Frontend Mentor](https://www.frontendmentoer.io/challenges/social-links-profile-UG32l9m6dQ](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/67682316229816307766e19c/challenge/start). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
